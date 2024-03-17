@@ -1,7 +1,6 @@
-# Automonous World Hackson, proposal 
 
 ## Brief
-Multiplayer Pong War
+Take inspiration from the Pong War game, to make peer-insurance product fun and interactive.
 
 Pong War: (Original?)
 https://github.com/vnglst/pong-wars
