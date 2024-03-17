@@ -5,9 +5,6 @@ Take inspiration from the Pong War game, to make peer-insurance product fun and 
 Pong War: (Original?)
 https://github.com/vnglst/pong-wars
 
-## Game Type
-2D, Multiplayer, Strategy
-
 ## Engine
 https://github.com/vocdex/pong-wars-python
 Based on the this python version
